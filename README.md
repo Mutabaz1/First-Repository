@@ -1,2 +1,1 @@
-# First-Repository
-try out a repository
+#Yep this is it, zo first lipozitoli!
